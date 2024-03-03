@@ -3,10 +3,10 @@ src
   App.js
   App.css
   Index.html
-  components
-    customertable.js
+  In components folder place
+    (customertable.js
     searchbar.js
-    pagination.js
+    pagination.js)
 
 
 
